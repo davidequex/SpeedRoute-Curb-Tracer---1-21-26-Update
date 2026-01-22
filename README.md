@@ -45,17 +45,19 @@ However:
 ## Visual Results (Current Prototype)
 
 ### Input: Satellite Imagery
-![Satellite Input](data/input_satellite.png)
+<img width="1145" height="798" alt="Screenshot 2026-01-21 at 8 32 30 PM" src="https://github.com/user-attachments/assets/9110cf44-5503-4c6e-a212-1b83f60be2f4" />
+
 
 ---
 
 ### Intermediate: Road Mask Extraction
-![Road Mask](data/road_mask.png)
+<img width="2867" height="2011" alt="road_mask" src="https://github.com/user-attachments/assets/8c65ade7-6357-47ae-ac63-6633c8f74686" />
 
 ---
 
 ### Output: Inferred Curb Polylines (DXF)
-![Extracted Polylines](Screenshot%202026-01-21%20at%208.06.19%20PM.png)
+<img width="811" height="562" alt="Screenshot 2026-01-21 at 8 06 19 PM" src="https://github.com/user-attachments/assets/6b5fc9e3-b159-4fbe-9437-45c70130c207" />
+
 
 ---
 
